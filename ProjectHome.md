@@ -1,0 +1,3 @@
+Google App Engine blog code for running the AstroPython web site.  The purpose of this web site is to act as a knowledge base for performing this research with the open source Python language. It should become a means for collecting users' code snippets or scripts, lists of useful resources, and general advice from their own experiences.
+
+The code was forked from http://github.com/Arachnid/bloog (original author William T. Katz) and has been customized to support different categories of content, list views, and community content creation.  Development is on-going.
